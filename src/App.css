@@ -1,0 +1,7 @@
+.App{
+    background-color: bisque;
+    height: 680px;
+    border: 5px outset red;
+    box-shadow: black;
+    font-family: 'Brush Script MT';
+}
